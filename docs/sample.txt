@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is the field of computer science that focuses on creating systems capable of performing tasks that usually require human intelligence.
+
+Machine Learning (ML) is a subset of AI that uses statistical techniques to enable systems to improve at tasks with experience.
+
+Natural Language Processing (NLP) is a branch of AI that deals with the interaction between computers and human language.
